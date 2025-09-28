@@ -1,0 +1,5 @@
+{
+  "name": "Content Creator's Research Hub",
+  "description": "An AI-powered application to find relevant websites and images for YouTube content creation. Enter a topic to get a curated list of web resources with summaries and a gallery of related images.",
+  "requestFramePermissions": []
+}
